@@ -1,11 +1,6 @@
-// See the node-minecraft-protocol docs
-// When editing your scripts, disable scripting or disconnect so
-// you don't get lots of errors.
-
-// Scripts won't automatically save (yet), so make sure to save
-// them somewhere!
-
-// Handles packets going from the client to the server
+/*
+This is a work in progress tool that I use to test knockback on servers.
+*/
 
 const uuid = "25a0048f-d105-4a57-b2f6-2ee88b87d684"; // i dont know how to get this in realtime so this will have to do.
 
